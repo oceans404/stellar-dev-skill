@@ -114,10 +114,10 @@ Use the CAP preamble status fields as the source of truth for implementation rea
 - Step 5: Document dependencies on draft standards explicitly.
 
 ## Related docs
-- Contract implementation details: `contracts-soroban.md`
-- Advanced architecture guidance: `advanced-patterns.md`
-- RPC and data access: `api-rpc-horizon.md`
-- Security considerations: `security.md`
+- Contract implementation details: [`../soroban/SKILL.md`](../soroban/SKILL.md)
+- Advanced architecture guidance: [`../soroban/SKILL.md`](../soroban/SKILL.md)
+- RPC and data access: [`../data/SKILL.md`](../data/SKILL.md)
+- Security considerations: [`../security/SKILL.md`](../security/SKILL.md)
 
 ---
 
