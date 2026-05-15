@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://oceans404.github.io/stellar-dev-skill/sitemap.xml
